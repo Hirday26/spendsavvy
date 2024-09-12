@@ -1,0 +1,7 @@
+categoryNameID,expenseAmount,expenseDate,expenseDescription,expenseName,tags
+1,50,2024-03-10,Groceries,Grocery Shopping,food
+5,30,2024-03-09,Dinner,Dinner with friends,"food, social"
+2,100,2024-03-08,Utilities,Electricity bill,utilities
+3,20,2024-03-07,Transportation,Bus fare,transport
+4,80,2024-03-06,Entertainment,Movie tickets,entertainment
+1,70,2024-03-05,Groceries,Weekly groceries,food
