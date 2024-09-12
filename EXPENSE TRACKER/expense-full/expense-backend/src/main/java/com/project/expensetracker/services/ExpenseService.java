@@ -21,8 +21,7 @@ public class ExpenseService {
 
     @Autowired
     public ExpenseRepository expenseRepository;
-    // public static final String ACCOUNT_SID = "ACc0bba02f3872ec9ba66fdc032a4e5d67";
-    // public static final String AUTH_TOKEN = "bb92a5b832d1b353074f33ebe270911b";
+  
 
     public List<Map<String, Object>> getCategories() {
         return expenseRepository.getCategories();
